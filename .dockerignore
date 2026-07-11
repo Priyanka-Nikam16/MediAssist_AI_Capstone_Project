@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Git
+.git
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Logs
+*.log
+logs/
+backend/logs/
+
+# Cache
+.pytest_cache/
+.cache/
+
+# Environment
+.env
+
+# Uploaded files
+App/data/
+
+# Generated vector store
+App/store/
+
+# OS
+.DS_Store
+Thumbs.db

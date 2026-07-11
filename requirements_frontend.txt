@@ -1,0 +1,7 @@
+streamlit
+requests
+# python-dotenv
+# plotly
+# Pillow
+# gTTS
+# pandas
