@@ -199,13 +199,12 @@ Supports automated evaluation using a Golden Dataset.
 
 Evaluation Metrics:
 
-- Accuracy
 - Faithfulness
 - Grounding
 - Relevance
 - Completeness
 - Hallucination Rate
-- Confidence Score
+- Overall Score
 - Response Time
 
 ---
