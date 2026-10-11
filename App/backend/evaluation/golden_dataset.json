@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "question": "Who is the consulting dermatologist?",
+    "golden_answer": "Refer to the consulting dermatologist mentioned in the discharge summary.",
+    "expected_route": "rag",
+    "expected_source": "SAMPLE DISCHARGE SUMMARIES.pdf"
+  },
+  {
+    "id": 2,
+    "question": "Who referred the patient?",
+    "golden_answer": "Refer to the referring doctor's name mentioned in the discharge summary.",
+    "expected_route": "rag",
+    "expected_source": "SAMPLE DISCHARGE SUMMARIES.pdf"
+  },
+  {
+    "id": 3,
+    "question": "What is the patient's final diagnosis?",
+    "golden_answer": "Refer to the diagnosis section of the discharge summary.",
+    "expected_route": "rag",
+    "expected_source": "SAMPLE DISCHARGE SUMMARIES.pdf"
+  },
+  {
+    "id": 4,
+    "question": "What was the chief complaint of the patient?",
+    "golden_answer": "Refer to the chief complaint section in the discharge summary.",
+    "expected_route": "rag",
+    "expected_source": "SAMPLE DISCHARGE SUMMARIES.pdf"
+  },
+  {
+    "id": 5,
+    "question": "What treatment was provided during hospitalization?",
+    "golden_answer": "Refer to the treatment given section in the discharge summary.",
+    "expected_route": "rag",
+    "expected_source": "SAMPLE DISCHARGE SUMMARIES.pdf"
+  }
+ 
+]
